@@ -1,0 +1,30 @@
+body{
+   background-image: linear-gradient(to right, black, black, black, black, black, black, purple);
+}
+
+body{
+    color: orange
+}
+
+h1 {
+text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+form{
+    width: 3%;
+    margin: 0 auto;
+
+}
+
